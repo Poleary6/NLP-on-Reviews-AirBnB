@@ -14,5 +14,7 @@ Due to the Text translation and processing requirements for this project, each m
 They are named as follows:
 
 Kahn: 
+
 McFarland: 
-O'Leary: 
+
+O'Leary: OLeary_Final.ipynb 
