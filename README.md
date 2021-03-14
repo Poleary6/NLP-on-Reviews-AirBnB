@@ -15,6 +15,6 @@ They are named as follows:
 
 Kahn: 
 
-McFarland: FinalProject_McFarland.ipynb
+McFarland: mcfarland_finalProject.ipynb
 
 O'Leary: OLeary_Final.ipynb 
