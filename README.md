@@ -10,6 +10,8 @@ Given both open text reviews and ordinal numeric ratings on an AirBnB listing, c
 
 Data was acquired from data.world:   https://data.world/bjblock/airbnb-chicago
 
+Final Report:  
+
 Due to the individual approaches taken, and text translation and processing requirements for this project, each member of our team created their own Jupyter Notebooks:
 
 Kahn: Kahn_Final_Project.ipynb
